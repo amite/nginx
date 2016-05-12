@@ -5,7 +5,7 @@
 #
 
 # Pull base image.
-FROM FROM ubuntu:trusty
+FROM ubuntu:trusty
 
 # Install Nginx.
 RUN \
